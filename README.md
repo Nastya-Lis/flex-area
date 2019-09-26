@@ -1,3 +1,3 @@
 # flex-area
-Lisunkova xyinia
+Lisunkova
 POIBMS 7-2
