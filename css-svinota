@@ -1,0 +1,55 @@
+.header-inner{
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.logo{
+    font-family: 'Noto Serif JP', serif;
+    font-size:34px;
+    background:#fff;
+    border:2px solid crimson;
+    border-radius: 5px;
+    padding:0 4px;     
+}
+.main-menu{
+    display: none;
+}
+
+#Main-menu-link{
+    display: none;
+    /*
+    display: flex;
+    flex-direction: column;
+    */
+}
+
+@media screen and (max-width:680px){
+    .main-menu{
+        display: block;
+        margin-right: 20%;
+    }
+    
+    #Main-menu-link{
+      margin-top: 60px;
+    }
+    
+    .logo-addit-margin{
+        margin-left: 20%;
+    }
+    
+    .nav{
+        display: none;
+    }
+   
+    
+    .header-button{
+        display: none;
+    }
+
+    
+    .main-menu-flaticon{
+          content: url(flaticon/Row-48.png);  
+        }   
+}
+
