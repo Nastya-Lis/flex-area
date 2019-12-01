@@ -1,0 +1,39 @@
+ <header class="header">
+        <div class="conteiner">
+          <div class="header-inner">
+            <div class="logo logo-addit-margin">魚</div>
+              
+              
+              <div class = "main-menu">
+                  <i class="main-menu-flaticon" onclick="ClickOnFlatIcon()"
+                  ></i>
+              </div>
+              
+              <div id="Main-menu-link">
+                 <ul id="main-ul">
+                     <li class="main-li"><a class="main-menu-link" href="#">Home </a></li>
+                     
+                     <li class="main-li"><a class="main-menu-link" href="aboutUs.html" target="_blank">About Us </a></li>
+                     
+                     <li class="main-li"><a class="main-menu-link" href="menu.html" target="_blank">Menu </a></li>
+                     
+                     <li class="main-li"><a class="main-menu-link" href="comments.html" target="_blank">Comments </a></li>
+                     
+                     <li class="main-li"><a class="main-menu-link" href="contact.html" target="_blank">Contact</a></li>
+                 </ul>
+              </div>
+              
+              
+            <nav class="nav">
+               <a class="nav-link" href="#">Home </a>
+               <a class="nav-link" href="aboutUs.html" target="_blank">About Us </a>
+               <a class="nav-link" href="menu.html" target="_blank">Menu </a>
+               <a class="nav-link" href="comments.html" target="_blank">Comments </a>
+               <a class="nav-link" href="contact.html" target="_blank">Contact</a>
+            </nav>
+              
+             
+            <div class="header-button">Reservation</div>
+          </div>
+        </div>
+    </header>
