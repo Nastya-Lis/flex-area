@@ -2,10 +2,10 @@
 <purchaseOrder>
   <lineItem>
     <name>Line Item 1</name>
-    <price>1.25</price>
+    <price>69</price>
   </lineItem>
   <lineItem>
     <name>Line Item 2</name>
-    <price>2.48</price>
+    <price>245</price>
   </lineItem>
 </purchaseOrder>
