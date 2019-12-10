@@ -6,6 +6,6 @@
   </lineItem>
   <lineItem>
     <name>Line Item 2</name>
-    <price>2.48</price>
+    <price>245</price>
   </lineItem>
 </purchaseOrder>
