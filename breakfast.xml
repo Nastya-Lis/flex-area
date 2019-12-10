@@ -1,60 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<lists-menu>
-
-  <list-menu>
-   <list-menu-item>
-      <name>А</name>
-      <price>1</price>
-      <consist>А1</consist>
-   </list-menu-item>
-
-   <list-menu-item>
-      <name>Б</name>
-      <price>2</price>
-      <consist>Б2</consist>
-   </list-menu-item>
-
-   <list-menu-item>
-      <name>В</name>
-      <price>3</price>
-      <consist>В3</consist>
-   </list-menu-item>
-
-   <list-menu-item>
-      <name>Г</name>
-      <price>4</price>
-      <consist>Г4</consist>
-   </list-menu-item>
-
-   </list-menu> 
- 
-   
-   <list-menu> 
-   
-   <list-menu-item>
-      <name>Д</name>
-      <price>5</price>
-      <consist>Д5</consist>
-   </list-menu-item>
-
-   <list-menu-item>
-      <name>Е</name>
-      <price>6</price>
-      <consist>Е6</consist>
-   </list-menu-item>
-
-   <list-menu-item>
-      <name>Ж</name>
-      <price>7</price>
-      <consist>Ж7</consist>
-   </list-menu-item>
-
-   <list-menu-item>
-      <name>З</name>
-      <price>8</price>
-      <consist>З8</consist>
-   </list-menu-item>
-
-  </list-menu> 
-
-</lists-menu>
+<purchaseOrder>
+  <lineItem>
+    <name>Line Item 1</name>
+    <price>1.25</price>
+  </lineItem>
+  <lineItem>
+    <name>Line Item 2</name>
+    <price>2.48</price>
+  </lineItem>
+</purchaseOrder>
