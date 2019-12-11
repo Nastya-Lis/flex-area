@@ -3,27 +3,27 @@
 
   <listMenu>
    <listMenuItem>
-      <name>Sushi-marca</name>
-      <price>12$</price>
-      <consist>some randon text</consist>
+      <name>Edamame</name>
+      <price>5.50$</price>
+      <consist>steam soybean and lightly salted</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Pizza</name>
-      <price>67.8$</price>
-      <consist>peperoni vasabi some love</consist>
+      <name>Spicy Mushrooms</name>
+      <price>13.50$</price>
+      <consist>sauteed mushrooms and tofu with kimchee sauce</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Sushi- marusia succ fucking</name>
-      <price>8$</price>
-      <consist>some randon text</consist>
+      <name>Thai Salad</name>
+      <price>5.95$</price>
+      <consist>lettuce with tomato, cucumbers, and peanut sauce dressing</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Sushi- marusia </name>
-      <price>24$</price>
-      <consist>some randon text</consist>
+      <name>Baby Corn</name>
+      <price>13.50$</price>
+      <consist>choice of meat sauteed baby corn, straw mushrooms, green &amp; white onions, carrots, and asian fusion's secret sauce</consist>
    </listMenuItem>
 
    </listMenu> 
@@ -32,27 +32,27 @@
    <listMenu> 
    
    <listMenuItem>
-      <name>Sushi- marusia</name>
-      <price>5$</price>
-      <consist>some randon text</consist>
+      <name>Japanese rice</name>
+      <price>16.95$</price>
+      <consist>served with korean beef and kimchee</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Sushi- marusia</name>
-      <price>77$</price>
-      <consist>some randon text</consist>
+      <name>Tempura Udon</name>
+      <price>14.00$</price>
+      <consist>udon noodles with shrimp tempura in our Asian broth</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Andrei</name>
-      <price>79$</price>
-      <consist>some randon text some</consist>
+      <name>Spicy Shrimp Basil Leaves</name>
+      <price>20.00$</price>
+      <consist>sauteed jumbo shrimp with chili sauce, bell peppers, onion and basil leaves</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Please Work</name>
-      <price>8$</price>
-      <consist>some randon text</consist>
+      <name>Tilapia Curry</name>
+      <price>$</price>
+      <consist>steamed fish topped with red curry, coconut milk, bamboo shoots</consist>
    </listMenuItem>
 
   </listMenu> 
