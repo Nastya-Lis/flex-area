@@ -6,22 +6,5 @@
       <price>1</price>
       <consist>А1</consist>
    </listmenuitem>
-   <listmenuitem>
-      <name>Б</name>
-      <price>2</price>
-      <consist>Б2</consist>
-   </listmenuitem>
  </listMenu> 
- <listMenu> 
-   <listmenuitem>
-      <name>Д</name>
-      <price>5</price>
-      <consist>Д5</consist>
-   </listmenuitem>
-   <listmenuitem>
-      <name>Е</name>
-      <price>6</price>
-      <consist>Е6</consist>
-   </listmenuitem>
-  </listMenu> 
 </listsMenu>
