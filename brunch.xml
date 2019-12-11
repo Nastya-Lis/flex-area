@@ -22,7 +22,7 @@
 
    <listMenuItem>
       <name>Kimchee with Tofu</name>
-      <price13.50>$</price>
+      <price>13.50$</price>
       <consist>sauteed vegetables and tofu with kimchee sauce</consist>
    </listMenuItem>
 
@@ -40,13 +40,13 @@
    <listMenuItem>
       <name>Shu She Salmon</name>
       <price>18.95$</price>
-      <consist>broiled frresh salmon fillet, in a mild curry sauce, fresh basil, red and green peppers	</consist>
+      <consist>broiled frresh salmon fillet, in a mild curry sauce, fresh basil, red and green peppers</consist>
    </listMenuItem>
 
    <listMenuItem>
       <name>Fish Teriyaki</name>
       <price>20.00$</price>
-      <consist>fried fish with teriyaki sauce and broccoli	</consist>
+      <consist>fried fish with teriyaki sauce and broccoli</consist>
    </listMenuItem>
 
    <listMenuItem>
