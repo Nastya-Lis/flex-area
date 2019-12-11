@@ -3,13 +3,13 @@
 
   <listMenu>
    <listMenuItem>
-      <name>Sashimi & Shrimp Tempura</name>
+      <name>Sashimi Shrimp Tempura</name>
       <price>13.50$</price>
       <consist>1 california roll, 4 pcs.Sushi, 6 pcs. Sashimi</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Sushi & Shrimp Tempura</name>
+      <name>Sushi Shrimp Tempura</name>
       <price>13.50$</price>
       <consist>4 pcs. tuna, 4 pcs. Salmon, 4 pcs. whitefish</consist>
    </listMenuItem>
