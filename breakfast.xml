@@ -3,27 +3,27 @@
 
   <listMenu>
    <listMenuItem>
-      <name>А</name>
-      <price>1</price>
-      <consist>А1</consist>
+      <name>Sushi-marca</name>
+      <price>12$</price>
+      <consist>some randon text</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Б</name>
-      <price>2</price>
-      <consist>Б2</consist>
+      <name>Pizza</name>
+      <price>67$</price>
+      <consist>peperoni vasabi some love</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>В</name>
-      <price>3</price>
-      <consist>В3</consist>
+      <name>Sushi- marusia succ fucking</name>
+      <price>8$</price>
+      <consist>some randon text</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Г</name>
-      <price>4</price>
-      <consist>Г4</consist>
+      <name>Sushi- marusia </name>
+      <price>24$</price>
+      <consist>some randon text</consist>
    </listMenuItem>
 
    </listMenu> 
@@ -32,27 +32,27 @@
    <listMenu> 
    
    <listMenuItem>
-      <name>Д</name>
-      <price>5</price>
-      <consist>Д5</consist>
+      <name>Sushi- marusia</name>
+      <price>5$</price>
+      <consist>some randon text</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Е</name>
-      <price>6</price>
-      <consist>Е6</consist>
+      <name>Sushi- marusia</name>
+      <price>77$</price>
+      <consist>some randon text</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>Ж</name>
-      <price>7</price>
-      <consist>Ж7</consist>
+      <name>Andrei</name>
+      <price>79$</price>
+      <consist>some randon text some</consist>
    </listMenuItem>
 
    <listMenuItem>
-      <name>З</name>
-      <price>8</price>
-      <consist>З8</consist>
+      <name>Please Work</name>
+      <price>8$</price>
+      <consist>some randon text</consist>
    </listMenuItem>
 
   </listMenu> 
