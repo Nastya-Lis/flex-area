@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listsMenu>
+
+  <listMenu>
+   <listMenuItem>
+      <name>Chicken Teriyaki</name>
+      <price>13.50$</price>
+      <consist>broiled chicken and broccoli with teriyaki sauce</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Coconut Shrimp</name>
+      <price>9.95$</price>
+      <consist>fresh shrimp fried in delicious thai coconut batter</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Gyoza</name>
+      <price>5.50$</price>
+      <consist>deep fried pork or vegetable dumpling 5 pieces</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Kimchee with Tofu</name>
+      <price13.50>$</price>
+      <consist>sauteed vegetables and tofu with kimchee sauce</consist>
+   </listMenuItem>
+
+   </listMenu> 
+ 
+   
+   <listMenu> 
+   
+   <listMenuItem>
+      <name>Vegetable Tempura</name>
+      <price>13.50$</price>
+      <consist>deep fried vegetable with ginger sauce</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Shu She Salmon</name>
+      <price>18.95$</price>
+      <consist>broiled frresh salmon fillet, in a mild curry sauce, fresh basil, red and green peppers	</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Fish Teriyaki</name>
+      <price>20.00$</price>
+      <consist>fried fish with teriyaki sauce and broccoli	</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Tom Ka Kai</name>
+      <price>6.50$</price>
+      <consist>chicken, coconut milk, mushrooms, tomatoes, and lemon grass</consist>
+   </listMenuItem>
+
+  </listMenu> 
+
+</listsMenu>
