@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listsMenu>
+
+  <listMenu>
+   <listMenuItem>
+      <name>Sashimi & Shrimp Tempura</name>
+      <price>13.50$</price>
+      <consist>1 california roll, 4 pcs.Sushi, 6 pcs. Sashimi</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Sushi & Shrimp Tempura</name>
+      <price>13.50$</price>
+      <consist>4 pcs. tuna, 4 pcs. Salmon, 4 pcs. whitefish</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Asian Fusion Veggie Combo</name>
+      <price>12.50$</price>
+      <consist>1 Veggie Roll, 2 handroll, 4 pcs. Nigiri veggie</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Hosomaki Jr. Combo</name>
+      <price>24$</price>
+      <consist>1 California Roll, 1 Tekka Roll, 1 Kappa Roll</consist>
+   </listMenuItem>
+
+   </listMenu> 
+ 
+   
+   <listMenu> 
+   
+   <listMenuItem>
+      <name>Pad Woonsen</name>
+      <price>10.54$</price>
+      <consist>chicken or pork</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Red Curry</name>
+      <price>17.03$</price>
+      <consist>chicken or pork</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Pepper Steak</name>
+      <price>11.95$</price>
+      <consist>sauteed beef, peppers, onions, and mushrooms</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Chicken, Pork or Fish Katsu</name>
+      <price>12.50$</price>
+      <consist>breaded & deep fried</consist>
+   </listMenuItem>
+
+  </listMenu> 
+
+</listsMenu>
