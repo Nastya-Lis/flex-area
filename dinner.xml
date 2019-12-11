@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listsMenu>
+
+  <listMenu>
+   <listMenuItem>
+      <name>Shrimp Fried Rice</name>
+      <price>13.95$</price>
+      <consist>fresh steamed white rice stir-fried with shrimp, egg, white onion, carrots, sweet peas and scallions</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Spring Roll</name>
+      <price>5.50$</price>
+      <consist>fried rolls stuffed with vegetables served with sweet and sour sauce</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Age Tofu</name>
+      <price>5.50$</price>
+      <consist>deep fried tofu with ginger sauce</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Asian Fusion Fried Rice</name>
+      <price>13.50$</price>
+      <consist>fried rice with chicken, pork and beef and vegetables</consist>
+   </listMenuItem>
+
+   </listMenu> 
+ 
+   
+   <listMenu> 
+   
+   <listMenuItem>
+      <name>Wonton Soup</name>
+      <price>6.95$</price>
+      <consist>pork wonton soup wtih mixed vegetables</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Japanese Salad</name>
+      <price>9.00$</price>
+      <consist>large green salad with shrimp and krab stick</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Salmon</name>
+      <price>19.00$</price>
+      <consist>fresh salmon, cooked with choice of garlic, basil or ginger sauce</consist>
+   </listMenuItem>
+
+   <listMenuItem>
+      <name>Honey Chicken</name>
+      <price>13.50$</price>
+      <consist>tempura battered deep fried boneless chicken with honey sauce</consist>
+   </listMenuItem>
+
+  </listMenu> 
+
+</listsMenu>
